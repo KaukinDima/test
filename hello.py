@@ -7,3 +7,4 @@ print('Hello')
 a = 55
 
 print(a)
+print('asd')
